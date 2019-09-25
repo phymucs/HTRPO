@@ -50,3 +50,6 @@ All the listed names can be directly used in command line for training policies.
 
 ### Problem Shoot
 When using input normalization, the first update will fail because the initial mean and variance are morbid. This will be tackled with in the future version of this project.
+
+### Paper
+This work is submitted to International Conference on Learning Representation (ICLR) 2020 named Hindsight Trust Region Policy Optimization.
