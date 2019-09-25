@@ -18,7 +18,7 @@ tensorboardX         1.7
 
 mujoco-py            2.0.2.2
 
-Please make sure that the versions of all the requirements match the above ones, which is necessary for running the code.
+Please make sure that the versions of all the requirements match the ones above, which is necessary for running the code.
 
 ### Examples
 For running continuous envs (e.g. FetchPush-v1) with HTRPO algorithm:
